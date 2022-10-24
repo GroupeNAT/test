@@ -21,6 +21,7 @@ Creation d'un test qui doit comprendre les elements suivants :
 * Back office
 * Creer un test sur un service et sur une réponse 200 d'URL
 * Page d'accueil des articles en reactJS
+* Afficher la meteo locale en API.
 
 ## Informations
 Veuillez noter dans un fichier chaques commandes que vous avez effectués.
