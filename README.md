@@ -9,12 +9,14 @@ Creation d'un test qui doit comprendre les elements suivants :
 * Base de données SQLite
 * Login et logout
 * Formulaire d'enregistrement
+* Tables: article, categorie
+* Un article comprends plusieurs catégories
 * Champs obligatoires pour un article
     * titre
     * contenu
     * slug (pour l'URL)
-* Chaques tables contient la date de creation de la ligne
-* Envoie d'un mail lors d'actions sur la BDD
+* Chaques tables doit contenir la date de creation de la ligne
+* Historisation des evenements dans la table
 * Back office
 * Creer un test sur un service et sur une réponse 200 d'URL
 * Page d'accueil des articles en reactJS
