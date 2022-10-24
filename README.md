@@ -11,12 +11,13 @@ Creation d'un test qui doit comprendre les elements suivants :
 * Formulaire d'enregistrement
 * Tables: article, categorie
 * Un article comprends plusieurs catégories
+* Créer un jeu de données
 * Champs obligatoires pour un article
     * titre
     * contenu
     * slug (pour l'URL)
 * Chaques tables doit contenir la date de creation de la ligne
-* Historisation des evenements dans la table
+* Historisation des evenements dans la BDD
 * Back office
 * Creer un test sur un service et sur une réponse 200 d'URL
 * Page d'accueil des articles en reactJS
