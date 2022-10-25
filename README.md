@@ -2,26 +2,21 @@
 
 ## Consignes
 
-Le projet constiste a créer un simple blog.
-
-Creation d'un test qui doit comprendre les elements suivants :
+Le projet constiste a créer un simple blog en Symfony (5.4 ou 6) qui doit comprendre les elements suivants :
 
 * Base de données SQLite
 * Login et logout
 * Formulaire d'enregistrement
 * Tables: article, categorie
-* Un article comprends plusieurs catégories
-* Créer un jeu de données
-* Champs obligatoires pour un article
-    * titre
-    * contenu
-    * slug (pour l'URL)
+* Un article (post) comprends plusieurs catégories
+* Un article doit contenir un slug
 * Chaques tables doit contenir la date de creation de la ligne
 * Historisation des evenements dans la BDD
+* Créer un jeu de données
 * Back office
 * Creer un test sur un service et sur une réponse 200 d'URL
-* Page d'accueil des articles en reactJS
-* Afficher la meteo locale en API.
+* Page d'accueil des articles en reactJS (ou jQuery)
+* Acceder aux articles et utilisateurs par API
 
 ## Informations
 Veuillez noter dans un fichier chaques commandes que vous avez effectués.
@@ -31,4 +26,5 @@ Je dois être en mesure de :
 * créer un compte
 * ajouter un article
 * avoir un utilisateur avec un role necessaire à la suppression/edition des données.
-* Avoir vue sur les articles sur la page d'accueil
+* avoir les pages du site stylisées
+* acceder aux données en API
