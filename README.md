@@ -17,6 +17,7 @@ Le projet constiste a créer un simple blog en Symfony (5.4 ou 6) qui doit compr
 * Creer un test sur un service et sur une réponse 200 d'URL
 * Page d'accueil des articles en reactJS (ou jQuery)
 * Acceder aux articles et utilisateurs par API
+* Utiliser Webpack-encore
 
 ## Informations
 Veuillez noter dans un fichier chaques commandes que vous avez effectués.
