@@ -7,7 +7,7 @@ Le projet consiste a créer un simple blog en Symfony (5.4 ou 6) qui doit compre
 * Base de données SQLite
 * Login et logout
 * Formulaire d'enregistrement
-* * Tables: article, categorie
+* Tables: article, categorie
 * Un article (post) comprends plusieurs catégories
 * Un article doit contenir un slug
 * Chaque tables doit contenir la date de création de la ligne
